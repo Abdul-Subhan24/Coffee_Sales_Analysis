@@ -9,13 +9,13 @@ This repository contains an analysis of coffee sales data aimed at uncovering tr
 
 # Tools and Technologies:
 - **Platform:** Google Colab
-**Programming Language:** Python
-- **Libraries:**
--    **Data Analysis:** Pandas, NumPy
-    **Visualization:** Matplotlib, Seaborn
-    **Machine Learning & Modeling:** Scikit-learn, XGBoost, Random Forest
-    **Model Tuning:** GridSearchCV for hyperparameter optimization
-    - **Data Processing:** Datetime, Scipy, StandardScaler
+- **Programming Language:** Python
+- **Libraries:** <br>
+-    **Data Analysis:** Pandas, NumPy <br>
+    **Visualization:** Matplotlib, Seaborn <br>
+    **Machine Learning & Modeling:** Scikit-learn, XGBoost, Random Forest <br>
+    **Model Tuning:** GridSearchCV for hyperparameter optimization <br>
+    - **Data Processing:** Datetime, Scipy, StandardScaler <br>
 
 **Project Workflow:**
 1.  **Data Preprocessing:**
@@ -31,7 +31,7 @@ Used pairplots and boxplots to detect outliers and examine relationships between
 
 4. **Model Building:**
 - Multiple regression models were trained, including:
-    L- inear Regression
+    - Linear Regression
     - Random Forest
     - Gradient Boosting
     - XGBoost
