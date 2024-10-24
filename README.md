@@ -11,11 +11,11 @@ This repository contains an analysis of coffee sales data aimed at uncovering tr
 - **Platform:** Google Colab
 - **Programming Language:** Python
 - **Libraries:** <br>
--    **Data Analysis:** Pandas, NumPy <br>
+    **Data Analysis:** Pandas, NumPy <br>
     **Visualization:** Matplotlib, Seaborn <br>
     **Machine Learning & Modeling:** Scikit-learn, XGBoost, Random Forest <br>
     **Model Tuning:** GridSearchCV for hyperparameter optimization <br>
-    - **Data Processing:** Datetime, Scipy, StandardScaler <br>
+     **Data Processing:** Datetime, Scipy, StandardScaler <br>
 
 **Project Workflow:**
 1.  **Data Preprocessing:**
