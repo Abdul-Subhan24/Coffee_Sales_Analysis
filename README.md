@@ -8,14 +8,14 @@ This repository contains an analysis of coffee sales data aimed at uncovering tr
 - **Perform visual data analysis** to explore patterns in coffee consumption, payment methods, and customer preferences.
 
 # Tools and Technologies:
-- **Platform:** Google Colab
-- **Programming Language:** Python
-- **Libraries:** <br>
+- **Platform:** Google Colab <br>
+- **Programming Language:** Python <br>
+- **Libraries:**
     **Data Analysis:** Pandas, NumPy <br>
     **Visualization:** Matplotlib, Seaborn <br>
     **Machine Learning & Modeling:** Scikit-learn, XGBoost, Random Forest <br>
     **Model Tuning:** GridSearchCV for hyperparameter optimization <br>
-     **Data Processing:** Datetime, Scipy, StandardScaler <br>
+    **Data Processing:** Datetime, Scipy, StandardScaler <br>
 
 **Project Workflow:**
 1.  **Data Preprocessing:**
